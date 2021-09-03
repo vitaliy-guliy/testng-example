@@ -15,7 +15,7 @@ public class CalcTest {
     public void testSum() throws Exception {
 
         System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
-        System.out.println("this is a new test");
+        System.out.println("2 + 3 = ?");
         System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
         
         Assert.assertEquals(5, calc.sum(2,3));
